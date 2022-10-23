@@ -23,7 +23,10 @@
     "test:coverage": "jest --coverage",
     "pa11y": "node ./pa11y/index.js",
     "cypress": "cypress open"
+<<<<<<< HEAD
 >>>>>>> 0d128f6 (Added initial config for Cypress-Audit)
+=======
+>>>>>>> 0d128f6c4d56b4703502af6174dc931eb406c987
   },
   "keywords": [],
   "author": "",
@@ -78,6 +81,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "eslint": "^8.25.0",
     "eslint-config-next": "^12.3.1",
     "eslint-config-prettier": "^8.5.0",
@@ -92,6 +96,8 @@
     "jest-junit": "^14.0.1",
     "jest-transform-css": "^6.0.0",
 =======
+=======
+>>>>>>> 0d128f6c4d56b4703502af6174dc931eb406c987
     "cypress": "^9.4.1",
     "eslint": "^8.8.0",
     "eslint-config-next": "^12.0.10",
